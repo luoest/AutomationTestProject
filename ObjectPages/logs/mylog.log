@@ -1,0 +1,20 @@
+2019-07-18 18:13:35 - ObjectMap.py - INFO: 发现元素，定位套件为：('css selector', '#c_ph_hp')
+2019-07-18 18:13:36 - ActionBase.py - INFO: 执行点击操作。
+2019-07-18 18:13:37 - ObjectMap.py - INFO: 发现元素，定位套件为：('css selector', 'li[styletag="flight"]')
+2019-07-18 18:13:37 - ActionBase.py - INFO: 执行点击操作。
+2019-07-18 18:13:37 - ObjectMap.py - INFO: 发现元素，定位套件为：('css selector', 'input[mm="D"]')
+2019-07-18 18:13:37 - ActionBase.py - INFO: 执行点击操作。
+2019-07-18 18:13:38 - ObjectMap.py - INFO: 发现元素，定位套件为：('id', 'FD_StartCity')
+2019-07-18 18:13:38 - ActionBase.py - INFO: 发送信息：北京
+2019-07-18 18:13:38 - ObjectMap.py - INFO: 发现元素，定位套件为：('id', 'FD_DestCity')
+2019-07-18 18:13:38 - ActionBase.py - INFO: 发送信息：上海
+2019-07-18 18:13:39 - ObjectMap.py - INFO: 发现元素，定位套件为：('id', 'FD_StartDate')
+2019-07-18 18:13:39 - ActionBase.py - INFO: 发送信息：2019-07-29
+2019-07-18 18:13:39 - ObjectMap.py - INFO: 发现元素，定位套件为：('id', 'FD_ReturnDate')
+2019-07-18 18:13:39 - ActionBase.py - INFO: 发送信息：2019-07-30
+2019-07-18 18:13:40 - ObjectMap.py - INFO: 发现元素，定位套件为：('id', 'FD_HasChild')
+2019-07-18 18:13:40 - ActionBase.py - INFO: 执行点击操作。
+2019-07-18 18:13:40 - ObjectMap.py - INFO: 发现元素，定位套件为：('id', 'FD_HasBaby')
+2019-07-18 18:13:41 - ActionBase.py - INFO: 执行点击操作。
+2019-07-18 18:13:41 - ObjectMap.py - INFO: 发现元素，定位套件为：('id', 'FD_StartSearch')
+2019-07-18 18:13:41 - ActionBase.py - INFO: 执行点击操作。
